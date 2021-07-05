@@ -11,7 +11,7 @@ const CONFIG = {
     btnNo: 'Không:3',
     question:'Chắc chắn làm ny em nhaa',
     btnReply: 'Trả lời',
-    reply: 'Chắc chắn 100%',
+    reply: 'Chắc chắn 100% ',
     messDesc: 'Tối nay chơi game với em nhó.',
     btnAccept: 'Ok'
 }
